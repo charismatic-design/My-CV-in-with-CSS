@@ -1,0 +1,33 @@
+body {
+   
+    margin-right: 0;
+    margin-left: 0;
+    text-align: center;
+    
+}
+div {
+   
+    background-color: white
+
+}
+#header1{
+    margin: auto auto auto auto;
+     
+    
+}
+.cloud {
+    
+    width: 250px;
+    height: 250px;
+    
+}
+#cloud1{
+    position: absolute;
+    right: 10px;
+    top: 0;
+}
+#cloud2{
+    position: absolute;
+    left: 0px;
+}
+
