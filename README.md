@@ -1,4 +1,5 @@
 ```markdown
+
 # HTML & CSS Practice Portfolio – Nebiyu Samuel
 
 This is a simple personal portfolio web page created as part of my training in HTML and CSS. It is not my final portfolio but a practice project to reinforce core concepts like layout, styling, responsiveness, and basic web structure.
