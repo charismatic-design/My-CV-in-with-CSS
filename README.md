@@ -1,5 +1,3 @@
-## README.md
-
 ```markdown
 # HTML & CSS Practice Portfolio – Nebiyu Samuel
 
@@ -69,5 +67,4 @@ This project was created for practice while learning web development, specifical
 * LinkedIn: [Nebiyu Samuel](https://www.linkedin.com/in/nebiyu-samuel-256851379/)
 
 ```
-
 ```
